@@ -1,3 +1,3 @@
-module codeberg.org/kvo/proto
+module sr.ht/~kvo/proto
 
 go 1.20
